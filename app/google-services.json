@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975058298865",
+    "project_id": "ku-reminderapp",
+    "storage_bucket": "ku-reminderapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975058298865:android:67fc3691f5462158a60650",
+        "android_client_info": {
+          "package_name": "org.classapp.reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975058298865-tpuje264df7fpqs1ksl7ot0fiijkrdga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFPgcXe7JqPr-MwnfvrkeGiTgS6LwPNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975058298865-tpuje264df7fpqs1ksl7ot0fiijkrdga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
